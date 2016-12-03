@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="3">
+      <Unit0>
+        <Filename Value="prjTTT.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="ugame.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmGame"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uGame"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="136"/>
+        <CursorPos X="22" Y="160"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="C:\lazarus\lcl\include\control.inc"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="3180"/>
+        <CursorPos Y="3197"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit2>
+    </Units>
+    <JumpHistory Count="7" HistoryIndex="6">
+      <Position1>
+        <Filename Value="ugame.pas"/>
+        <Caret Line="59" Column="50" TopLine="47"/>
+      </Position1>
+      <Position2>
+        <Filename Value="ugame.pas"/>
+        <Caret Line="48" TopLine="25"/>
+      </Position2>
+      <Position3>
+        <Filename Value="ugame.pas"/>
+        <Caret Line="55" Column="89" TopLine="35"/>
+      </Position3>
+      <Position4>
+        <Filename Value="ugame.pas"/>
+        <Caret Line="56" Column="22" TopLine="38"/>
+      </Position4>
+      <Position5>
+        <Filename Value="ugame.pas"/>
+        <Caret Line="77" Column="20" TopLine="45"/>
+      </Position5>
+      <Position6>
+        <Filename Value="ugame.pas"/>
+        <Caret Line="161" Column="49" TopLine="131"/>
+      </Position6>
+      <Position7>
+        <Filename Value="ugame.pas"/>
+        <Caret Line="100" Column="35" TopLine="136"/>
+      </Position7>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
